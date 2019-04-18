@@ -1,2 +1,2 @@
-### 车辘-一个Vue-Ui组件
+### 车轱辘-一个Vue-UI组件
 ### 作者：xiaoweimei
