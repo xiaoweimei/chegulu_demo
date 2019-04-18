@@ -1,0 +1,22 @@
+{
+  "name": "chegulu",
+  "version": "1.0.0",
+  "description": "这是一个Vue-UI框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoweimei/chegulu_demo.git"
+  },
+  "keywords": [
+    "Vue，ui"
+  ],
+  "author": "xiaoweimei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaoweimei/chegulu_demo/issues"
+  },
+  "homepage": "https://github.com/xiaoweimei/chegulu_demo#readme"
+}
