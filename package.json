@@ -21,5 +21,8 @@
   "homepage": "https://github.com/xiaoweimei/chegulu_demo#readme",
   "dependencies": {
     "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
   }
 }
