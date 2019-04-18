@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/xiaoweimei/chegulu_demo/issues"
   },
-  "homepage": "https://github.com/xiaoweimei/chegulu_demo#readme"
+  "homepage": "https://github.com/xiaoweimei/chegulu_demo#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
